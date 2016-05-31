@@ -19,7 +19,6 @@ $(document).ready(function() {
 	$("#webTime").text(substr);
 });
 
-
 //Disable The Right Mouse Key
 if (window.Event) 
 	document.captureEvents(Event.MOUSEUP);
