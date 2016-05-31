@@ -1,0 +1,97 @@
+.box {
+	float:left;
+	width:320px;
+	padding:10px;
+	margin:20px 3px;
+	color:#8c9d9b;
+	background:rgba(13, 13, 13, 0.12);
+}
+.boxWelcome {
+	float:left;
+	width:520px;
+	height:300px;	
+	padding:10px;
+	margin:20px 3px;
+	color:#8c9d9b;
+	background:#0d0d0d;
+}
+.boxWelcomeVideo{
+	float:left;
+	width:120px;
+	padding:10px;
+	margin:20px 3px;
+	color:#8c9d9b;
+	background:#0d0d0d;
+}
+.box1Title {
+	color:#a9e400;
+	font-size:24px;
+}
+.box2Title {
+	color:#ffc60f;
+	font-size:24px;
+}
+.box3Title {
+	color:#00c3e4;
+	font-size:24px;
+}
+.buttonBox1 {
+	background:#a9e400;
+	border:0;
+	color:#FFFFFF;
+	padding:5px 10px;
+	cursor:pointer;
+}
+.buttonBox2 {
+	background:#ffc60f;
+	border:0;
+	color:#FFFFFF;
+	padding:5px 10px;
+	cursor:pointer;
+}
+.buttonBox3 {
+	background:#00c3e4;
+	border:0;
+	color:#FFFFFF;
+	padding:5px 10px;
+	cursor:pointer;
+}
+.boxButton {
+	float:right;
+}
+#mainContent {
+	background: #0d0d0d;
+	padding: 20px 40px;
+	box-shadow: 2px 3px 20px #585d5e;
+}
+.picRight {
+	float:right;
+	padding:0 0 15px 20px;
+} 
+#footer {
+	background:#32525D;
+	color:#676565;
+	padding:1px 0; 
+}
+#footer p {
+	text-align:center;
+} 
+#footer a {
+	color:#00c3e4;
+	text-decoration:underline;
+}
+#footer a:hover {
+	color:#00c3e4;
+	text-decoration:none;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+
+#container{
+	width: 980px;
+	margin: 0 auto;
+}

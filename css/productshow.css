@@ -1,0 +1,176 @@
+.page-section-3 {
+	height:3000px;
+	background-color: #fff;
+	border-bottom: 1px solid #dfdfdf;
+	margin-bottom: -1px;
+	overflow:hidden;
+}
+.page-section-dmx{
+	height:1600px;
+}
+.page-section-3 .gonglue {
+	padding: 30px 0;
+	text-align: center;
+	overflow: hidden;
+	margin-top:20px;
+	text-shadow: 0 1px 3px rgba(0,0,0,.4),0 0 30px rgba(0,0,0,.075);
+	border-top:#6DB371 solid 2px;;
+}
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+.page-section-3 .gonglue .hd h3 {
+	font-size: 24px;
+}
+.page-section-3 .gonglue .bd .list li {
+	float: left;
+	width: 33.33%;
+	padding: 25px 0;
+}
+.page-section-3 .gonglue .bd .list {
+	margin-top: 30px;
+}
+.clearfix {
+	zoom: 1;
+}
+.page-section-3 .gonglue .bd .list li .icon {
+	display: block;
+	width: 115px;
+	height: 115px;
+	margin: 0 auto 15px;
+	background: url("../images/backgrounds/gonglue-icon.png") no-repeat;
+}
+.page-section-3 .gonglue .bd .list li .icon-1 {
+	background-position: 0 0;
+}
+.page-section-3 .gonglue .bd .list li .icon-2 {
+	background-position: 0 -115px;
+}
+.page-section-3 .gonglue .bd .list li .icon-3 {
+	background-position: 0 -230px;
+}
+.page-section-3 .gonglue .bd .list li .icon-4 {
+	background-position: 0 -345px;
+}
+.page-section-3 .gonglue .bd .list li .icon-5 {
+	background-position: 0 -460px;
+}
+.page-section-3 .gonglue .bd .list li .icon-6 {
+	background-position: 0 -575px;
+}
+/* GLACS */
+.container-1 {
+	background-color: #FFF;
+	width: 960px;
+	margin: 0 auto;
+	z-index: 9999;
+}
+.container-1 {
+	background-color: #F6EBFF;
+	width: 960px;
+	margin-top:10px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #7D8BD0;
+	border-radius: 4px;
+	box-shadow: 1px 2px 12px #45585b;
+	text-shadow: 0 -1px 0 rgba(142,4,17,.5);
+}
+.features-content {
+	line-height: 1.8;
+}
+.features-content li .left {
+	float: left;
+	width: 480px;
+}
+.features-content li .right {
+	float: right;
+	width: 480px;
+}
+.features-content li h2 {
+	color: #000000;
+	font-size: 24px;
+	padding: 50px 0 10px 10px;
+	line-height: 110%;
+	font-family: "Microsoft Yahei","Heiti SC","SimHei","SimSun", Arial, Helvetica, sans-serif;
+}
+.features-content li p {
+	color: #333333;
+	padding: 0 10px;
+	width: 360px;
+	overflow: hidden;
+	font-size: 13px;
+}
+.overli{
+	overflow:hidden;
+	background:#EAFDFF
+	background: -moz-linear-gradient(45deg,#FFFFFF 0,#BFD1ED 90%);
+	background: -webkit-gradient(linear,left bottom,right top,color-stop(0%,#020031),color-stop(100%,#6d3353));
+	background: -webkit-linear-gradient(45deg,#FFFFFF 0,#BFD1ED 90%);
+	background: -o-linear-gradient(45deg,#FFFFFF 0,#BFD1ED 90%);
+	background: -ms-linear-gradient(45deg,#FFFFFF 0,#BFD1ED 90%);
+	background: linear-gradient(45deg,#FFFFFF 0,#BFD1ED 90%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#020031', endColorstr='#6d3353', GradientType=1);
+}
+element.style {
+}
+@media screen and (min-width: 768px)
+.masthead {
+	padding: 90px 0 110px;
+}
+.masthead {
+	padding: 60px 0 80px;
+	margin-bottom: 0;
+	color: #fff;
+}
+.jumbotron {
+	position: relative;
+	padding: 140px 0;
+	color: #fff;
+	text-align: center;
+	text-shadow: 0 1px 3px rgba(0,0,0,.4),0 0 30px rgba(0,0,0,.075);
+	background: #020031;
+	background: -moz-linear-gradient(45deg,#020031 0,#336B6D 100%);
+	background: -webkit-gradient(linear,left bottom,right top,color-stop(0%,#020031),color-stop(100%,#6d3353));
+	background: -webkit-linear-gradient(45deg,#020031 0,#336B6D 100%);
+	background: -o-linear-gradient(45deg,#020031 0,#336B6D 100%);
+	background: -ms-linear-gradient(45deg,#020031 0,#336B6D 100%);
+	background: linear-gradient(45deg,#020031 0,#336B6D 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#020031', endColorstr='#6d3353', GradientType=1);
+	-webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2),inset 0 -3px 7px rgba(0,0,0,.2);
+	-moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2),inset 0 -3px 7px rgba(0,0,0,.2);
+	box-shadow: inset 0 3px 7px rgba(0,0,0,.2),inset 0 -3px 7px rgba(0,0,0,.2);
+}
+.jumbotron:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: url(../images/backgrounds/bs-docs-masthead-pattern.png) repeat center center;
+	opacity: .4;
+}
+.dmx-ball:after {
+	background: url(../images/product/dmx-ball.jpg) repeat center center;
+	opacity: .2;
+}
+.jumbotron .container {
+	max-width: 100%;
+}
+.masthead h1 {
+	font-size: 60px;
+	line-height: 1;
+	letter-spacing: -2px;
+	font-weight: 700;
+}
+.masthead h2 {
+	font-size: 30px;
+	font-weight: 200;
+	line-height: 1.25;
+	font-family: "Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei UI","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
