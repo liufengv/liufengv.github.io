@@ -11,7 +11,6 @@
  
 (function($) {
 
-
 var fc = $.fullCalendar;
 var formatDate = fc.formatDate;
 var parseISO8601 = fc.parseISO8601;
